@@ -26,3 +26,10 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Root-level duplicates (these belong inside server/)
+controllers/
+middleware/
+models/
+routes/
+services/
